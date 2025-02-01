@@ -1,6 +1,6 @@
 # Ridiculous Rules People Actually Follow
 
-## Project Overview
+# Project Overview
 
 **Ridiculous Rules People Actually Follow** is a community-driven platform where users can share and engage with absurd rules they have encountered in different aspects of life, such as workplaces, schools, and public spaces. The project highlights the humor in bureaucracy and provides an interactive way for people to discuss and vote on the most ridiculous policies.
 
